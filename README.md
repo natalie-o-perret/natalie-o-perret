@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I am Natalie Perret, a Software Developer, currently based in Paris and working @ [Veepee](https://www.veepee.com). 
+I am Natalie Perret, a Software Developer, currently based in Paris. 
 
 ## Some additional bits about myself
 
